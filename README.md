@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jp1888
-- 👀 I’m interested in Python,React Native,Node JS
+- 👀 I’m interested in Python,Java,PHP
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on project called devlinks using html, css and java script by rocketseat
 - 📫 How to reach me ...
