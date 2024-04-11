@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jp1888
+- 👋 Hi, I’m João Pedro Menezes
 - 👀 I’m interested in Java, Java Script, PHP
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on project called devlinks using html, css and java script by rocketseat
